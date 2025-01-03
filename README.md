@@ -68,12 +68,6 @@ To develop a machine learning classification model capable of accurately predict
 </p>
 
 ## 📂 **Stage 3 : Data Preprocessing**
-### Feature Encoding
-<p align="center">
-<img src="https://github.com/user-attachments/assets/18dcec76-2e1a-4e39-a0ec-a150d76b42ed"
- alt="FeatureEncoding">
-</p>
-<br>
 <p>
 A. Handling Missing Values in the Data
 Missing values were identified in the following features: 
