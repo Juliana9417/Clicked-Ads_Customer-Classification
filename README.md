@@ -46,6 +46,11 @@ To develop a machine learning classification model capable of accurately predict
 - City: City where the customer resides.
 - Province: Province where the customer resides.
 - Category: The category of the advertisement displayed to the customer.
+
+##### Clicked on Ad
+- No     500
+- Yes    500
+Name: count, dtype: int64
 </p>
 <br>
 
